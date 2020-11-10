@@ -7,7 +7,7 @@ var lastName = prompt("Inserisci il tuo cognome");
 var favouriteColor = prompt("Inserisci il tuo colore preferito");
 // console.log(favouriteColor);
 
-var currentYear = 20
+var currentYear = 20;
 // console.log(currentYear);
 
 var currentYearString = currentYear.toString();
